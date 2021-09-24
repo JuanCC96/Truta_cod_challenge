@@ -1,0 +1,54 @@
+property_type,room_type,min_price,as_max_price,row_count
+House,Shared room,28.0,200.0,74
+Serviced apartment,Private room,54.0,600.0,8
+Hostel,Entire home/apt,78.0,78.0,1
+Cottage,Entire home/apt,175.0,350.0,5
+Loft,Shared room,40.0,311.0,5
+Other,Private room,40.0,275.0,16
+Apartment,Private room,10.0,900.0,759
+Guest suite,Private room,49.0,200.0,65
+Guest suite,Entire home/apt,39.0,845.0,431
+Timeshare,Private room,850.0,850.0,1
+Apartment,Entire home/apt,10.0,8000.0,2226
+Cabin,Private room,125.0,125.0,1
+Earth house,Entire home/apt,450.0,450.0,1
+Boutique hotel,Private room,39.0,1249.0,169
+Guesthouse,Private room,90.0,129.0,3
+Resort,Private room,450.0,750.0,4
+Bungalow,Entire home/apt,83.0,550.0,11
+Bungalow,Private room,35.0,250.0,5
+Boutique hotel,Entire home/apt,140.0,300.0,14
+Cottage,Private room,85.0,150.0,3
+Guesthouse,Entire home/apt,60.0,750.0,41
+House,Private room,30.0,8000.0,1072
+Tiny house,Entire home/apt,140.0,325.0,3
+Hotel,Private room,60.0,750.0,99
+Castle,Entire home/apt,92.0,92.0,1
+Loft,Entire home/apt,79.0,1000.0,70
+In-law,Entire home/apt,155.0,155.0,1
+Hostel,Private room,39.0,555.0,37
+Bed and breakfast,Shared room,38.0,555.0,15
+Hotel,Entire home/apt,650.0,650.0,1
+Apartment,Shared room,29.0,2281.0,25
+Serviced apartment,Shared room,45.0,50.0,2
+Treehouse,Private room,100.0,100.0,1
+Serviced apartment,Entire home/apt,60.0,1300.0,106
+Boat,Entire home/apt,131.0,208.0,2
+Bungalow,Shared room,42.0,42.0,1
+Other,Entire home/apt,80.0,215.0,6
+Resort,Entire home/apt,140.0,500.0,4
+Aparthotel,Private room,50.0,205.0,20
+Townhouse,Shared room,35.0,40.0,4
+Villa,Shared room,31.0,80.0,3
+Townhouse,Private room,29.0,580.0,69
+Hostel,Shared room,19.0,555.0,49
+Loft,Private room,65.0,375.0,18
+House,Entire home/apt,43.0,3394.0,844
+Condominium,Entire home/apt,50.0,10000.0,526
+Condominium,Private room,45.0,1500.0,233
+Cabin,Entire home/apt,69.0,115.0,2
+Townhouse,Entire home/apt,110.0,1100.0,67
+Bed and breakfast,Private room,50.0,899.0,14
+Condominium,Shared room,65.0,65.0,1
+Villa,Private room,99.0,1040.0,6
+Villa,Entire home/apt,2282.0,2282.0,1
